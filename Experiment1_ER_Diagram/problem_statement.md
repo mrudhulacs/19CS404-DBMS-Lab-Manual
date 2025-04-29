@@ -48,7 +48,7 @@ Design a database for patient management, appointments, medical records, and bil
 # ER Diagram Submission - CHITTOOR SARAVANA MRUDHULA (212224040056)
 
 ## Scenario Chosen:
-University / Hospital (choose one)
+University 
 
 ## ER Diagram:
 
